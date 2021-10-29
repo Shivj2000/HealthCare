@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color:black;
+    color : white;
+    
+}
+#container h1{
+    margin: 15px;
+    font-size: 2.5rem;
+    font-family: 'Bree Serif', serif;
+}
+#main .box{
+    margin: 10px 25px;
+}
+#main .box img{
+    border-radius: 8px;
+    border: 1px solid white;
+}
+#main .box h2{
+    font-size: 2rem;
+    font-family: 'Bree Serif', serif;
+}
+#main .box h3{
+    font-size: 1rem;
+    font-family: 'Bree Serif', serif;
+    margin: 20px 0px;
+}
+#main .box ol li{
+   margin: 7px 0px;
+}
+#main .box ul li{
+   margin: 7px 0px;
+}
+.content{
+    font-size: 1.5rem;
+    font-family: 'Bree Serif', serif;
+    color: yellow;
+    margin: 40px 0px;
+}
+#contact{
+    /* border: 2px solid white; */
+    margin: 30px 0px;
+}
+#contact h1{
+    font-family: 'Bree Serif', serif;
+    font-size: 2.5rem;
+    margin: 0px 25px;
+}
+#contact-box{
+    margin: 0px 25px;
+}
+
+#contact-box label{
+    font-family: 'Bree Serif', serif;
+    font-size: 1.5rem;
+}
+#contact-box input,
+#contact-box textarea{
+  width: 85%;
+  padding: 0.5rem;
+  font-size: 1.1rem;
+  border-radius: 9px;
+}
+.btn{
+    margin: 17px 0px;
+    background-color: white;
+    color: black;
+    padding: 4px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+#contact-box form .btn:hover{
+    background-color:rgb(212, 212, 211);
+}
+
+footer{
+    background: black;
+    color: white;
+    padding: 9px 20px;
+  }
+.center{
+    text-align: center;
+}

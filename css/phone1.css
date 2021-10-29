@@ -1,0 +1,23 @@
+#main{
+    flex-direction: column;
+}
+#main .box center img{
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+    height: 150px;
+    width: 150px;
+}
+#main .box{
+    padding: 10px;
+    margin: 2px 0px;
+    margin-bottom: 20px;
+    
+}
+#contact-box form{
+    width: 70%;
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
